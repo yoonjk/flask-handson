@@ -24,3 +24,4 @@ async def get_item(item_id: str, sample_query_param: str, q: str | None = None, 
     )
   
   return item
+
